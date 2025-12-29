@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sobre mí
 
-<!--
-**cubencodeg/cubencodeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Participo en proyectos de IA, ciencia de datos y agentes LLM.
+Mis contribuciones se han realizado en proyectos colaborativos que se encuentran en repositorios privados, 
+por lo que no son visibles públicamente.
 
-Here are some ideas to get you started:
+## Áreas técnicas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine learning y optimización de modelos
+- Procesamiento y análisis de datos
+- Agentes LLM(LangChain)
+
+
