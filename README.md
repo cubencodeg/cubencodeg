@@ -1,13 +1,11 @@
-## Sobre mí
+## About me
 
-Participo en proyectos de IA, ciencia de datos y agentes LLM.
-Mis contribuciones se han realizado en proyectos colaborativos que se encuentran en repositorios privados, 
-por lo que no son visibles públicamente.
+I participate in projects in AI, data science, and LLM-based agents. My contributions have been made in collaborative projects hosted in private repositories, so they are not publicly visible.
 
-## Áreas técnicas 
+## Technical areas
+- Machine learning and model optimization
 
-- Machine learning y optimización de modelos
-- Procesamiento y análisis de datos
-- Agentes LLM(LangChain)
+- Data processing and analysis
 
+- LLM agents (LangChain)
 
